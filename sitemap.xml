@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Blogs/categories/</loc>
+    <loc>https://eugene29.github.io/Blogs/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/Blogs/</loc>
+    <loc>https://eugene29.github.io/Blogs/</loc>
   </url><url>
-    <loc>http://localhost:1313/Blogs/tags/</loc>
+    <loc>https://eugene29.github.io/Blogs/tags/</loc>
   </url>
 </urlset>

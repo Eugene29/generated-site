@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/Blogs/sitemap.xml
+Sitemap: https://eugene29.github.io/Blogs/sitemap.xml
