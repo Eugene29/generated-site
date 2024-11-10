@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Eugene29/Blogs
+	branch = master
